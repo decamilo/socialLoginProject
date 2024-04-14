@@ -12,7 +12,11 @@
   "dependencies": {
     "express": "4.19.2",
     "body-parser": "1.20.2",
+<<<<<<< HEAD
     "cors": "2.8.5",
     "moment-timezone": "0.5.45"
+=======
+    "cors": "2.8.5"
+>>>>>>> b211397b3ed9161dc43c23602188fb443d690a54
   }
 }
